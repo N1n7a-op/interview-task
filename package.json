@@ -1,0 +1,19 @@
+{
+  "name": "interview_task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "asyncloop": "^0.0.1",
+    "body-parse": "^0.1.0",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "node-async-loop": "^1.2.2",
+    "Validator": "^1.1.4"
+  }
+}
